@@ -1,0 +1,12 @@
+__pycache__
+.history
+.hypothesis/
+reports/
+node_modules/
+typechain
+.env
+artifacts/
+cache/
+coverage/
+flatten/
+.vscode/
